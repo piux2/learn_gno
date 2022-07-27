@@ -28,7 +28,7 @@ Why do we want to learn gnolang?
 
 
 
-#### Basic concept
+### Basic concept
 
 Bank
 
@@ -44,7 +44,7 @@ Transaction
 
 
 
-## Build 
+# Build 
 
 What to build on gnoland?
 
