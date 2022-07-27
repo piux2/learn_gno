@@ -1,2 +1,3 @@
-# learn_gno
-gnolang
+# Let's build and learn gnolang
+
+
