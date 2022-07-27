@@ -1,7 +1,7 @@
 ---
 title: Learn
 description: concept explained
-lang: en
+nav_order: 3
 sidebar: true
 preMergeBanner: true
 ---
