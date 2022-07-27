@@ -1,3 +1,12 @@
+---
+layout: default
+title: Home
+nav_order: 1
+description: "Let's lean and build"
+permalink: /
+---
+
+
 You can use the [editor on GitHub](https://github.com/piux2/learn_gno/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 ## Learn
