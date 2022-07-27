@@ -6,15 +6,26 @@ description: "Let's learn and build"
 
 ---
 
-## Overview
+# Overview
 
 Gnolang is a secure and easy to learn smart contract language inspired from golang, solidity
 
 Gnoland is a blockchain that supports Gnolang natively. It is powred by tendermint, cosmos sdk and ibc. 
 
-## Learn gnolang
 
-Why do we want to learn gnolang ?
+# Play
+
+How to interact with gno smart contract on gnoland? 
+
+Let's interact with some of the contracts on goland.
+
+
+# Learn
+
+### Motivation
+
+Why do we want to learn gnolang?
+
 
 
 #### Basic concept
@@ -30,14 +41,16 @@ Package
 Transaction
 
 
-## Play on gnoland
-
-Let's interact with some of the contracts on goland.
 
 
-## Build on gnoland
 
-Why do we want to build on gnoland?
+## Build 
+
+What to build on gnoland?
+
+
+
+How to build on gnoland?
 
 
 
