@@ -17,9 +17,7 @@ Gnoland is a blockchain that supports Gnolang natively. It is powred by tendermi
 Why do we want to learn gnolang ?
 
 
-###
-
-Basci concept
+### Basci concept
 
 Bank
 
@@ -42,7 +40,7 @@ Why do we want to build on gnoland?
 
 
 
-[Fork gno]([http://example.com](https://github.com/gnolang/gno/fork)/){: .btn }
+[Fork gno](https://github.com/gnolang/gno/fork){: .btn }
 
     git clone https://github.com/YOUR_REPO/gno
     cd gno
