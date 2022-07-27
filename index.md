@@ -17,7 +17,7 @@ Gnoland is a blockchain that supports Gnolang natively. It is powred by tendermi
 Why do we want to learn gnolang ?
 
 
-### Basci concept
+#### Basic concept
 
 Bank
 
@@ -30,8 +30,9 @@ Package
 Transaction
 
 
+## Play on gnoland
 
-
+Let's interact with some of the contracts on goland.
 
 
 ## Build on gnoland
