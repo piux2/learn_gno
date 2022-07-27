@@ -1,7 +1,7 @@
 ---
 title: Play
 description: interact with smart contract
-lang: en
+nav_order: 2
 sidebar: true
 preMergeBanner: true
 ---
