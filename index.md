@@ -2,7 +2,7 @@ You can use the [editor on GitHub](https://github.com/piux2/learn_gno/edit/gh-pa
 
 ## Learn
 
-Why we want to learn a new language?
+Why do we want to learn a new language?
 
 
 Bank
