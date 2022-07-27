@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Let's lean and build"
+description: "Let's learn and build"
 permalink: /
 ---
 
