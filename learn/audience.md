@@ -1,0 +1,18 @@
+## Audience
+
+
+### If  you are a golang programer or  a blockchain developer
+
+   Let's play, learn and build together
+
+### Otherwise, 
+
+here are some good resource on the internet to undertand the curse of knowledge we have here. 
+
+   [Learn golang](https://go.dev/learn/)
+   
+   [Ethereum and Solidity](https://ethereum.org/en/developers/docs/)
+   
+   [Cosmos Network, Tenermint and Inter Blockchain](https://hub.cosmos.network/main/hub-overview/overview.html)
+   
+   [Learn Blockchain](https://www.preethikasireddy.com/categories/blockchain)
