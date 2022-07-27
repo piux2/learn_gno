@@ -1,1 +1,4 @@
-theme: just-the-docs/just-the-docs
+title: "Learn and Build gnolang"
+remote_theme: just-the-docs/just-the-docs
+color_scheme: "dark"
+search_enabled: false
