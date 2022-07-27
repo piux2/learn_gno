@@ -40,7 +40,7 @@ Why do we want to build on gnoland?
 
 
 
-[Fork gno](https://github.com/gnolang/gno/fork){: .btn }
+[Fork gno](https://github.com/gnolang/gno/fork){: .btn .btn-green }
 
     git clone https://github.com/YOUR_REPO/gno
     cd gno
