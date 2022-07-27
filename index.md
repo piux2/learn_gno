@@ -6,27 +6,48 @@ description: "Let's learn and build"
 permalink: /
 ---
 
+## Overview
 
-You can use the [editor on GitHub](https://github.com/piux2/learn_gno/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Gnolang is a secure and easy to learn smart contract language inspired from golang, solidity
 
-## Learn
+Gnoland is a blockchain that supports Gnolang natively. It is powred by tendermint, cosmos sdk and ibc. 
 
-Why do we want to learn a new language?
+## Learn gnolang
 
+Why do we want to learn gnolang ?
+
+
+###
+
+Basci concept
 
 Bank
+
 Banker
+
 Realm
+
 Package
 
+Transaction
 
 
 
 
 
-## Build
 
-    git clone https://github.com/gno
+## Build on gnoland
+
+Why do we want to build on gnoland?
+
+
+
+[Fork gno]([http://example.com](https://github.com/gnolang/gno/fork)/){: .btn }
+
+    git clone https://github.com/YOUR_REPO/gno
     cd gno
     make
+    ./build/gnoland
+    ./build/website
+    
     
