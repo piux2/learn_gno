@@ -27,4 +27,4 @@ You can use multiple sub directory path to orgnize your Gno pacakge.
 
 ## Related
 
-[realm](learn/realm)
+[realm](learn/realm.html)
