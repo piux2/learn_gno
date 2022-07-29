@@ -27,6 +27,6 @@ You can NOT have sub directory path after your contract name in the realm packag
 
      gno.lang/r/your_contract_name/sub_contract_name NOT allowed. 
 
-the contract name is also the folder and go package name that could contain one to multiple file.gno contract file name.
+the contract name is also the folder and go package name that could contain one or multiple contract files.
 
 
