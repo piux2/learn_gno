@@ -10,7 +10,7 @@ nav_order: 1
 
 Realm is a very important concept in gnolang
 
-Realm is a package format. It is also the contract identifier in gno.land network 
+Realm pacakge is a go package. It is also the contract identifier in gno.land network 
 
 Realm package path: 
 
@@ -20,10 +20,13 @@ Realm package: package path + contract name
 
     gno.lang/r/your_contract_name
 
-A real package is a smart contract with persistent state and usually exposing exteranl methods for other external account or contract to call. 
+A realm package is a smart contract with persistent state and usually exposing exteranl methods for other external account or contract to call. 
 
 
-You can NOT have sub directory path afer your contract name. 
-the contract name is also the folder and go package that could contain one to multiple file.gno contract file name.
+You can NOT have sub directory path after your contract name in the realm package
+
+     gno.lang/r/your_contract_name/sub_contract_name NOT allowed. 
+
+the contract name is also the folder and go package name that could contain one to multiple file.gno contract file name.
 
 
