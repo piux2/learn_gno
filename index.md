@@ -21,7 +21,7 @@ a blockchain that supports Gnolang natively. It is powred by tendermint2, cosmos
 
 How to interact with gno smart contract on gnoland? 
 
-Let's interact with some of the contracts on goland.
+Let's explore some of the contracts on goland.
 
 
 # Learn
@@ -34,27 +34,27 @@ Why do we want to learn gnolang?
 
 ### Basic concept
 
-Bank
-
-Banker
-
 Realm
 
 Package
 
+Persistent
+
+Bank
+
+Banker
+
 Transaction
-
-
-
 
 
 # Build 
 
+
+How to write a smart contrat on gnoland?
+
 What to build on gnoland?
 
 
-
-How to build on gnoland?
 
 
 
