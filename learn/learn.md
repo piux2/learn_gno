@@ -1,12 +1,11 @@
 ---
+layout: default
 title: Learn
 description: concept explained
 nav_order: 3
 sidebar: true
-preMergeBanner: true
+has_children: true
 ---
-
-
 
 ## Audience
 
@@ -26,3 +25,5 @@ here are some good resource on the internet to undertand the curse of knowledge 
    [Cosmos Network, Tenermint and Inter Blockchain](https://hub.cosmos.network/main/hub-overview/overview.html)
    
    [Learn Blockchain](https://www.preethikasireddy.com/categories/blockchain)
+
+{: .no_toc }
