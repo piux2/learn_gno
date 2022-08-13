@@ -23,7 +23,7 @@ Realm package: package path + contract name
 A realm package is a smart contract with persistent state and usually exposing exteranl methods for other external account or contract to call. 
 
 
-You can NOT have sub directory path after your contract name in the realm package
+We can NOT have sub directory path after your contract name in the realm package
 
      gno.lang/r/your_contract_name/sub_contract_name NOT allowed. 
 
