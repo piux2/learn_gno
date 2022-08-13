@@ -10,7 +10,7 @@ nav_order: 1
 
 Realm is a very important concept in gnolang
 
-Realm pacakge is a go package. It is also the contract identifier in gno.land network 
+Realm pacakge is the contract identifier of contract instance on in gno.land network. It is also a reusable gno codes libary pacakged togaher.  
 
 Realm package path: 
 
