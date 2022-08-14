@@ -24,6 +24,7 @@ How to interact with gno smart contract on gnoland?
 Let's explore some of the contracts on goland.
 
 
+
 # Learn
 
 ### Motivation
