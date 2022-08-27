@@ -42,7 +42,7 @@ Process
 
 Push less core code on production
 
-Design by contract (DbC)
+Design by contract (DbC) vs Test Driven Development ( TDD )
 
 Be happy and healthy
 
