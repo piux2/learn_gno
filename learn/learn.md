@@ -42,6 +42,8 @@ Process
 
 Push less core code on production
 
+Design by contract (DbC)
+
 Be happy and healthy
 
 
