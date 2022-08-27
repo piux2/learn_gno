@@ -36,15 +36,21 @@ Formal Verifiation
 
 Oracle
 
-Process
-
 100% test code coverage on core contracts
 
 Push less core code on production
 
 Design by contract (DbC) vs Test Driven Development ( TDD )
 
-Be happy and healthy
+Process and culture in decentralized development security
+
+Easy to code vs easy to verify
+
+Governance Approval
+
+Benchmarkig the bug finding strategy
+
+Be healthy and happy
 
 
 {: .no_toc }
