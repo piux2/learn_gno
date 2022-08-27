@@ -36,4 +36,10 @@ Formal Verifiation
 
 Oracle
 
+Process
+
+100% test code coverage on core contracts
+
+Be happy and healthy
+
 {: .no_toc }
