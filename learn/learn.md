@@ -29,7 +29,11 @@ here are some good resource on the internet to undertand the curse of knowledge 
 TODO:
 
 Invariant
+
 Fuzzing
+
 Formal Verifiation
+
+Oracle
 
 {: .no_toc }
