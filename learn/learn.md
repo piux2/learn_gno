@@ -26,4 +26,10 @@ here are some good resource on the internet to undertand the curse of knowledge 
    
    [Learn Blockchain](https://www.preethikasireddy.com/categories/blockchain)
 
+TODO:
+
+Invariant
+Fuzzing
+Formal Verifiation
+
 {: .no_toc }
