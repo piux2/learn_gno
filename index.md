@@ -10,7 +10,7 @@ description: "Let's learn and build"
 
 ### Gnolang 
 
-A secure and easy to learn smart contract language inspired from golang.
+A secure and easy to learn smart contract language inspired from golang and solidity
 
 It inherits the "simple", "explicit", "orthogonal", "concurrent" properties from golang, and enables "secure" features suited for smart contract programming. 
 
