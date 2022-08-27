@@ -48,7 +48,7 @@ Easy to code vs easy to verify
 
 Governance Approval
 
-Benchmarkig the bug finding strategy
+Benchmarkig the bug finding strategy with bug injection
 
 Be healthy and happy
 
