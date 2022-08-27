@@ -40,6 +40,9 @@ Process
 
 100% test code coverage on core contracts
 
+Push less core code on production
+
 Be happy and healthy
+
 
 {: .no_toc }
