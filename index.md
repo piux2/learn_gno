@@ -6,18 +6,26 @@ description: "Let's learn and build"
 
 ---
 
+
+
 # Overview
 
-### Gnolang 
 
-A secure and easy to learn smart contract language inspired from golang and solidity
+### Gnolang - Knowledge in Action
+
+Gno is part of the word gno.sis. Gno means knowlege and sis means action in greek. 
+
+Gnolang is a lanuage solution that helps turn your knowlege in action. 
+
+It is a secure and easy to learn smart contract language.
 
 It inherits the "simple", "explicit", "orthogonal", "concurrent" properties from golang, and enables "secure" features suited for smart contract programming. 
 
-### Gnoland 
+### Gnoland - Apply knowledge 
 
-A blockchain that supports Gnolang natively. It is powred by tendermint2, cosmos sdk and ibc. 
+A blockchain that supports Gnolang natively. It is powred by tendermint classic, cosmos sdk and ibc. 
 
+### Action
 
 Feel free to request topics in following each category in
 [Issues](https://github.com/piux2/learn_gno/issues)
