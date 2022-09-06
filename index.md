@@ -11,17 +11,17 @@ description: "Let's learn and build"
 # Overview
 
 
-### Gnolang - Knowledge in Action
+### Gnolang - Turn Knowledge into Action
 
 Gno is part of the word gno.sis. Gno means knowlege and sis means action in greek. 
 
-Gnolang is a lanuage solution that helps turn your knowlege in action. 
+Gnolang is a language solution that helps turn your knowlege into action. 
 
 It is a secure and easy to learn smart contract language.
 
 It inherits the "simple", "explicit", "orthogonal", "concurrent" properties from golang, and enables "secure" features suited for smart contract programming. 
 
-### Gnoland - Apply knowledge 
+### Gnoland - Apply your knowledge 
 
 A blockchain that supports Gnolang natively. It is powred by tendermint classic, cosmos sdk and ibc. 
 
@@ -66,6 +66,9 @@ Banker
 
 Transaction
 
+Invariant
+
+Design by contract
 
 # Build 
 
