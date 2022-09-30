@@ -27,6 +27,8 @@ A blockchain that supports Gnolang natively. It is powred by tendermint classic,
 
 ### Golang VM - A Go interpreter implemented using Cosmos SDK.
 
+It provides additional transparency and trust to inject a business logic layer as a smart contract into the chain. Source code and library are stored and verifiable on the chain. No need for a third trusted party to verify the source code matching the byte code. 
+
 
 
 
