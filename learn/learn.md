@@ -2,7 +2,7 @@
 layout: default
 title: Learn
 description: concept explained
-nav_order: 3
+nav_order: 2
 sidebar: true
 has_children: true
 ---
