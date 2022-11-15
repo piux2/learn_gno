@@ -27,9 +27,9 @@ has_children: true
         
  - step 4: explore your local node and the website
  
-      [local node](http://localhost:26657)
+      [local node - http://localhost:26657 ](http://localhost:26657)
   
-      [website](http://localhost:8888)
+      [website - http://localhost:8888 ](http://localhost:8888)
       
  - step 5: optional, setup your local faucet
  
