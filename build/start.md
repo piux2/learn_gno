@@ -30,6 +30,12 @@ has_children: true
       [local node](http://localhost:26657)
   
       [website](http://localhost:8888)
+      
+ - step 5: optional, setup your local faucet
+ 
+    By default, the faucet sends out 1,000,000ugnot (1gnot) per request. --send flag overwrites it. 
+    
+       ./build/gnofaucet serve test1 --chain-id dev --send 5000000000ugnot
     
    
     
