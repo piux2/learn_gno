@@ -19,6 +19,10 @@ has_children: true
  - step 2
     
         ./build/gnokey add test1 --recover 
+   
+   provide mnemonic to import test1 wallet 
+   
+         source bonus chronic canvas draft south burst lottery vacant surface solve popular case indicate oppose farm nothing bullet exhibit title speed wink action roast
 
  - step 3: start gnoland node and website in two terminal windows. 
 
