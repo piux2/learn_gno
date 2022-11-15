@@ -79,10 +79,14 @@ Design by contract
 
 # Build 
 
+How to deploy a local network and dev environment?
 
 How to write a smart contrat on gnoland?
 
 What to build on gnoland?
+
+
+
 
 
 
