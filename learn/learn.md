@@ -28,6 +28,8 @@ here are some good resource on the internet to undertand the curse of knowledge 
 
 TODO:
 
+Application-Specific Blokchain and Smart Contracts Trade off
+
 Invariant
 
 Fuzzing
