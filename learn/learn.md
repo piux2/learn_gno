@@ -16,7 +16,7 @@ has_children: true
 
 ### Otherwise, 
 
-here are some good resource on the internet to undertand the curse of knowledge we have here. 
+here are some good resource on the internet to explain some of the basic concepts mentioned here.
 
    [Learn golang](https://go.dev/learn/)
    
@@ -26,7 +26,15 @@ here are some good resource on the internet to undertand the curse of knowledge 
    
    [Learn Blockchain](https://www.preethikasireddy.com/categories/blockchain)
 
-TODO:
+Topics: TODO
+
+Update Contract
+
+Issue Native Token vs GRC20
+
+Put Admin(Owner) in control 
+
+What is the trust value and how to bring it to your web3 projects
 
 Application-Specific Blokchain and Smart Contracts Trade off
 
