@@ -7,28 +7,21 @@ sidebar: true
 has_children: true
 ---
 
-## Audience
 
 
-### If  you are a golang programer or  a blockchain developer
-
-   Let's play, learn and build together
-
-### Otherwise, 
-
-here are some good resource on the internet to explain some of the basic concepts mentioned here.
-
-   [Learn golang](https://go.dev/learn/)
-   
-   [Ethereum and Solidity](https://ethereum.org/en/developers/docs/)
-   
-   [Cosmos Network, Tenermint and Inter Blockchain](https://hub.cosmos.network/main/hub-overview/overview.html)
-   
-   [Learn Blockchain](https://www.preethikasireddy.com/categories/blockchain)
+{: .no_toc }
 
 Topics: TODO
 
+Transaction
+
+Bank
+
+Banker
+
 Update Contract
+
+Tests: _test.gno vs _filetest.gno
 
 Issue Native Token vs GRC20
 
@@ -65,4 +58,15 @@ Benchmarkig the bug finding strategy with bug injection
 Be healthy and happy
 
 
-{: .no_toc }
+
+
+
+Here are some good resource on the internet to explain some of the basic concepts mentioned here.
+
+   [Learn golang](https://go.dev/learn/)
+   
+   [Ethereum and Solidity](https://ethereum.org/en/developers/docs/)
+   
+   [Cosmos Network, Tenermint and Inter Blockchain](https://hub.cosmos.network/main/hub-overview/overview.html)
+   
+   [Learn Blockchain](https://www.preethikasireddy.com/categories/blockchain)
