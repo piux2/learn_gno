@@ -7,16 +7,6 @@ sidebar: true
 has_children: true
 ---
 
-{: .no_toc }
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
 Topics: TODO
 
 Transaction
@@ -65,7 +55,7 @@ Be healthy and happy
 
 
 
-
+---
 
 Here are some good resource on the internet to explain some of the basic concepts mentioned here.
 
