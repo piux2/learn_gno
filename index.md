@@ -13,26 +13,46 @@ description: "Let's learn and build"
 
 ### Gnolang - Turn Knowledge into Action
 
-Gno is part of the word gno.sis. Gno means knowlege and sis means action in greek. 
+Gno is part of the word gno.sis. Gno means knowlege and sis means action in greek. Gnolang is a language solution that helps turn your knowlege into action. It is a secure and easy to learn smart contract language. It inherits the "simple", "explicit", "orthogonal", "concurrent" properties from golang, and enables "secure" features suited for smart contract programming. 
 
-Gnolang is a language solution that helps turn your knowlege into action. 
-
-It is a secure and easy to learn smart contract language.
-
-It inherits the "simple", "explicit", "orthogonal", "concurrent" properties from golang, and enables "secure" features suited for smart contract programming. 
-
-### Gnoland - Apply your knowledge 
+### Gnoland - Source of the trust
 
 A blockchain that supports Gnolang natively. It is powred by tendermint classic, cosmos sdk and ibc. 
 
-### Golang VM - A Go interpreter implemented using Cosmos SDK.
+### Gnolang VM - A Go interpreter running on Gnoland
 
-It provides additional transparency and trust to inject a business logic layer as a smart contract into the chain. Source code and library are stored and verifiable on the chain. No need for a third trusted party to verify the source code matching the byte code. 
-
-
+It provides additional transparency and trust to inject a business logic layer as a smart contract into the chain. Source code and library are stored and verifiable on the chain. No need for a third trusted party to verify the source code matching the byte code. It is implemented using Cosmos SDK.
 
 
-### Action
+
+[Learn](https://piux2.github.io/learn_gno/learn/learn.html){: .btn .btn-green }
+
+How to build Web3 Application? 
+Why you should should choose gnolang?
+
+[Build](https://piux2.github.io/learn_gno/learn/build.html){: .btn .btn-green }
+
+How to deploy a local network and dev environment?
+
+How to write a smart contrat on gnoland?
+
+What to build on gnoland?
+
+
+[Play](https://piux2.github.io/learn_gno/learn/play.html){: .btn .btn-green }
+
+How to interact with gno smart contract on gnoland? 
+
+Let's explore some of the contracts on goland.
+
+
+
+
+
+
+
+
+
 
 Feel free to request topics in following each category in
 [Issues](https://github.com/piux2/learn_gno/issues)
@@ -43,61 +63,9 @@ Just click the link on the top right corner
 [Edit this page on Github.com](https://github.com/piux2/learn_gno/tree/gh-pages/index.md)
 
 
-# Play
-
-How to interact with gno smart contract on gnoland? 
-
-Let's explore some of the contracts on goland.
-
-
-
-# Learn
-
-### Motivation
-
-Why do we want to learn gnolang?
-
-
-
-### Basic concept
-
-Realm
-
-Package
-
-Persistent
-
-Bank
-
-Banker
-
-Transaction
-
-Invariant
-
-Design by contract
-
-# Build 
-
-How to deploy a local network and dev environment?
-
-How to write a smart contrat on gnoland?
-
-What to build on gnoland?
 
 
 
 
-
-
-
-
-[Fork gno](https://github.com/gnolang/gno/fork){: .btn .btn-green }
-
-    git clone https://github.com/YOUR_REPO/gno
-    cd gno
-    make
-    ./build/gnoland
-    ./build/website
     
     
