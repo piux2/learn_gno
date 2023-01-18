@@ -24,6 +24,8 @@ Tests: _test.gno vs _filetest.gno
 
 Issue Native Token vs GRC20
 
+Native function std.xxx vs gno pacackage function std.yyy 
+
 Put Admin(Owner) in control 
 
 What is the trust value and how to bring it to your web3 projects
